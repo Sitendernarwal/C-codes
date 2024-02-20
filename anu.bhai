@@ -1,0 +1,12 @@
+hi bhai 
+bhai ye hai i=0;
+jab tak bhai(i<10){
+    bhai ye hai j=i;
+    jab tak bhai(j<10){
+        bol bhai("*");
+        j=j+1;
+    }
+    i=i+1;
+
+}
+bye bhai
